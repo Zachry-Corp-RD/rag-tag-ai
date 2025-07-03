@@ -41,7 +41,7 @@ As the CII Annual Conference approaches in the heart of **Music City, Nashville*
 
 Each post breaks down one “movement” of the RAG framework with hands-on tutorials and real construction data examples—from safety manuals to equipment specs.
 
-## 🎯 The Playlist
+## 🎵 The Playlist
 
 
 | Notebook                                      | Description                                                                                                                                                         |
