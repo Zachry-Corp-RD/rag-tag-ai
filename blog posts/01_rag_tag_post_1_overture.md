@@ -114,7 +114,7 @@ To help you follow along, we’ve created a ready-to-run **Jupyter Notebook** ho
 ### ⏩ Coming Next:
 
 **Post 2 – Chord Progressions: Semantic Chunking & Embedding**\
-📅 *Drops Thursday, July 11*\
+📅 *Drops Thursday, July 10*\
 We’ll walk through how to chunk project documents in a way that captures meaning, preserves context, and makes AI “sound right.”
 
 Stay tuned for more RAG, rhythm, and retrieval.
