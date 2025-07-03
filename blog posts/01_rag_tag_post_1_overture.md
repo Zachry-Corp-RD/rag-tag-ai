@@ -49,7 +49,6 @@ This pipeline turns project documents into **interactive AI knowledge instrument
 
 ---
 
-### &#xD;
 
 ![Simple RAG Flow Diagram]\(/assets/1_Simple_RAG_Flow.png)
 
