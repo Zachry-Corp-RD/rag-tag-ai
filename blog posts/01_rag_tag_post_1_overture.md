@@ -48,9 +48,8 @@ This pipeline turns project documents into **interactive AI knowledge instrument
 
 
 ---
-![1_Simple_RAG_Flow](https://github.com/user-attachments/assets/0f07cda3-dfc5-4d90-a2aa-c7870b0b2f58)
 
-
+![1_Simple_RAG_Flow_Musical](https://github.com/user-attachments/assets/a4a62adc-8064-4f45-997e-2c6eb21e2310)
 
 
 *A visual breakdown of the Simple RAG Pipeline—from user query to AI response using local embeddings and retrieval.*
