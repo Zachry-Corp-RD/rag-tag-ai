@@ -50,8 +50,8 @@ Each post breaks down one “movement” of the RAG framework with hands-on tuto
 | [2. Semantic Chunking](02_semantic_chunking.ipynb) | "Finding the Right Tempo" - Chunking strategies                                                                                           |
 | [3. Harmonizing Search Vectors](03_harmonizing_search_vectors.ipynb) | "Harmonizing Search" - Hybrid approaches and vectors.                                                                                    |
 | [4. Context Enriched RAG](04_context_enriched_rag.ipynb) | "Orchestrating Context" - Advanced retrieval Retrieves neighboring chunks to provide more context.                                                                                                     |
-| [5. Tuning for Performance](05_tuning_performance_rag.ipynb) | "Tuning for Performance" - Evaluation                                                                                               |
-| [6. Document Augmentation RAG](06_doc_augmentation_rag.ipynb) | "The Construction Symphony" - Real applications                                                                                           |
+| [5. Tuning for Performance](05_evaluation_framework.ipynb) | "Tuning for Performance" - Evaluation Framework                                                                                               |
+| [6. Document Augmentation RAG](06_construction_use_cases.ipynb) | "The Construction Symphony" - Real construction scenarios                                                                                           |
 
 
 📅 Weekly Release Timeline (Adjusted Start)
@@ -62,10 +62,10 @@ Each post breaks down one “movement” of the RAG framework with hands-on tuto
 | ---- | -------- | --------------------------------------- |
 | Posts | Date     | Topic                                   |
 | 1    | July 7   | "The Overture" - Basic RAG         |
-| 2    | July 10  | "Finding the Right Tempo" - Chunking strategies           |
-| 3    | July 17  |"Harmonizing Search" - Hybrid approaches              |
-| 4    | July 24  | "Orchestrating Context" - Advanced retrieval        |
-| 5    | July 31  | "Tuning for Performance" - Evaluation          |
-| 6    | August 7 | Post-Conference Wrap-Up + Future Vision |
+| 2    | July 10  | "Finding the Right Tempo" - Chunking strategies|
+| 3    | July 17  |"Harmonizing Search" - Hybrid approaches      |
+| 4    | July 24  | "Orchestrating Context" - Advanced retrieval |
+| 5    | July 31  | "Tuning for Performance" - Evaluation   |
+| 6    | August 7 |  "The Construction Symphony" - Real applications |
   
 
