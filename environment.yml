@@ -1,0 +1,13 @@
+name: rag-tag-simple
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - pymupdf
+      - sentence-transformers
+      - faiss-cpu
+      - requests
