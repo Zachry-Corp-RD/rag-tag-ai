@@ -41,3 +41,31 @@ As the CII Annual Conference approaches in the heart of **Music City, Nashville*
 
 Each post breaks down one “movement” of the RAG framework with hands-on tutorials and real construction data examples—from safety manuals to equipment specs.
 
+## 🎯 The Playlist
+
+
+| Notebook                                      | Description                                                                                                                                                         |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [1. Simple RAG](01_simple_rag.ipynb)           | A basic RAG implementation.  A great starting point!                                                                                                       |
+| [2. Semantic Chunking](02_semantic_chunking.ipynb) | Splits text based on semantic similarity for more meaningful chunks.                                                                                           |
+| [3. Chunk Size Selector](03_chunk_size_selector.ipynb) | Explores the impact of different chunk sizes on retrieval performance.                                                                                    |
+| [4. Context Enriched RAG](04_context_enriched_rag.ipynb) | Retrieves neighboring chunks to provide more context.                                                                                                     |
+| [5. Contextual Chunk Headers](05_contextual_chunk_headers_rag.ipynb) | Prepends descriptive headers to each chunk before embedding.                                                                                                |
+| [6. Document Augmentation RAG](06_doc_augmentation_rag.ipynb) | Generates questions from text chunks to augment the retrieval process.                                                                                           |
+
+
+📅 Weekly Release Timeline (Adjusted Start)
+
+  
+
+|      |          |                                         |
+| ---- | -------- | --------------------------------------- |
+| Week | Date     | Topic                                   |
+| 1    | July 3   | Intro to RAG & Simple Pipeline          |
+| 2    | July 10  | Semantic Chunking + Embedding           |
+| 3    | July 17  | Context-Enriched Retrieval              |
+| 4    | July 24  | Prompt Engineering + Guardrails         |
+| 5    | July 31  | RAG for Construction Use Cases          |
+| 6    | August 7 | Post-Conference Wrap-Up + Future Vision |
+  
+
