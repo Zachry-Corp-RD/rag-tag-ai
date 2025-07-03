@@ -46,12 +46,12 @@ Each post breaks down one “movement” of the RAG framework with hands-on tuto
 
 | Notebook                                      | Description                                                                                                                                                         |
 | :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [1. Simple RAG](01_simple_rag.ipynb)           | A basic RAG implementation.  A great starting point!                                                                                                       |
-| [2. Semantic Chunking](02_semantic_chunking.ipynb) | Splits text based on semantic similarity for more meaningful chunks.                                                                                           |
-| [3. Chunk Size Selector](03_chunk_size_selector.ipynb) | Explores the impact of different chunk sizes on retrieval performance.                                                                                    |
-| [4. Context Enriched RAG](04_context_enriched_rag.ipynb) | Retrieves neighboring chunks to provide more context.                                                                                                     |
-| [5. Contextual Chunk Headers](05_contextual_chunk_headers_rag.ipynb) | Prepends descriptive headers to each chunk before embedding.                                                                                                |
-| [6. Document Augmentation RAG](06_doc_augmentation_rag.ipynb) | Generates questions from text chunks to augment the retrieval process.                                                                                           |
+| [1. Simple RAG](01_simple_rag.ipynb)           | "The Overture" - Basic RAG                                                                                                       |
+| [2. Semantic Chunking](02_semantic_chunking.ipynb) | "Finding the Right Tempo" - Chunking strategies                                                                                           |
+| [3. Harmonizing Search Vectors](03_harmonizing_search_vectors.ipynb) | "Harmonizing Search" - Hybrid approaches and vectors.                                                                                    |
+| [4. Context Enriched RAG](04_context_enriched_rag.ipynb) | "Orchestrating Context" - Advanced retrieval Retrieves neighboring chunks to provide more context.                                                                                                     |
+| [5. Tuning for Performance](05_tuning_performance_rag.ipynb) | "Tuning for Performance" - Evaluation                                                                                               |
+| [6. Document Augmentation RAG](06_doc_augmentation_rag.ipynb) | "The Construction Symphony" - Real applications                                                                                           |
 
 
 📅 Weekly Release Timeline (Adjusted Start)
@@ -61,11 +61,11 @@ Each post breaks down one “movement” of the RAG framework with hands-on tuto
 |      |          |                                         |
 | ---- | -------- | --------------------------------------- |
 | Posts | Date     | Topic                                   |
-| 1    | July 7   | Intro to RAG & Simple Pipeline          |
-| 2    | July 10  | Semantic Chunking + Embedding           |
-| 3    | July 17  | Context-Enriched Retrieval              |
-| 4    | July 24  | Prompt Engineering + Guardrails         |
-| 5    | July 31  | RAG for Construction Use Cases          |
+| 1    | July 7   | "The Overture" - Basic RAG         |
+| 2    | July 10  | "Finding the Right Tempo" - Chunking strategies           |
+| 3    | July 17  |"Harmonizing Search" - Hybrid approaches              |
+| 4    | July 24  | "Orchestrating Context" - Advanced retrieval        |
+| 5    | July 31  | "Tuning for Performance" - Evaluation          |
 | 6    | August 7 | Post-Conference Wrap-Up + Future Vision |
   
 
