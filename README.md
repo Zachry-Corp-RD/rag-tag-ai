@@ -60,7 +60,7 @@ Each post breaks down one “movement” of the RAG framework with hands-on tuto
 
 |      |          |                                         |
 | ---- | -------- | --------------------------------------- |
-| Week | Date     | Topic                                   |
+| Posts | Date     | Topic                                   |
 | 1    | July 7   | Intro to RAG & Simple Pipeline          |
 | 2    | July 10  | Semantic Chunking + Embedding           |
 | 3    | July 17  | Context-Enriched Retrieval              |
