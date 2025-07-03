@@ -1,0 +1,18 @@
+{
+  "name": "RAG TAG AI Dev",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10", 
+  "features": {
+    "ghcr.io/devcontainers/features/conda:1": {
+      "environmentYaml": "environment.yml"
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install jupyterlab",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
