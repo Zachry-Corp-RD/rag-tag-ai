@@ -31,7 +31,7 @@ The repository follows a hands-on educational approach with three core principle
 
 Each notebook follows a consistent structure: technique explanation, step-by-step implementation, code examples with inline comments, evaluations with comparisons, and result visualizations.
 
-This blog series helps demystify RAG and makes it easier to understand how it really works, by focusing on the fundamentals, frameworks
+This blog series helps demystify RAG and makes it easier to understand how it really works, by focusing on the fundamentals and frameworks.
 
 ## 🎯 Why This Series?
 
